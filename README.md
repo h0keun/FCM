@@ -1,3 +1,5 @@
+```💡 FastCampus 강의 수강 및 정리```
+
 ### Firebase Cloud Messaging
 자세한 설명은 공식문서를 참조하자 [📌](https://firebase.google.com/docs/cloud-messaging)
 
@@ -35,3 +37,5 @@
     }
   }
   ```
+  
+<img src="https://user-images.githubusercontent.com/63087903/119834149-a8723f00-bf3a-11eb-8f4b-1733c8c8a0a1.jpg" width="200" height="430">
