@@ -23,7 +23,7 @@
 제공하는 API를 통해 FCM을 보냈다.  
 
 #### 작성한 정보  
-+ Request Parameters : ```projects/dofcm-6b3db```  
++ Request Parameters : ```projects/dofcm-?????```  
 + Request Body :  
   ```
   {
